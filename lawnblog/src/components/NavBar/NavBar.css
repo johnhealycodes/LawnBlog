@@ -12,7 +12,7 @@
 }
 
 .navbar-logo {
-    color: white;
+    color: #F4FFF8;
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
@@ -35,7 +35,7 @@
 }
 
 .nav-links {
-    color:white;
+    color:#F4FFF8;
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
@@ -47,7 +47,7 @@
 }
 
 .fa-bars {
-    color:white;
+    color:#F4FFF8;
 }
 
 .nav-links-mobile {
@@ -125,15 +125,15 @@
         margin: 2rem auto;
         border-radius: 4px;
         width: 80%;
-        background: #84ACCE;
+        background: #587792;
         text-decoration: none;
-        color:white;
+        color:#F4FFF8;
         font-size:1.5rem;
     }
 
     .nav-links-mobile:hover {
         background: #7FB069;
-        color: white;
+        color: #F4FFF8;
         transition:250ms;
     }
 

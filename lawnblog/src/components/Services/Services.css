@@ -1,0 +1,36 @@
+.Services-Container {
+    background-color: #F4FFF8;
+    margin-top: -5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10%;
+}
+
+.ServiceCard {
+    width: 300px;
+    height: 500px;
+    border: #587792 3px solid;
+    background-color: #F4FFF8;
+    color: #0D1F22;
+    margin-top: 1rem;
+}
+
+.Header {
+    background: rgb(38, 64, 39);
+    background: linear-gradient(90deg, rgba(38, 64, 39, 1) 0%, rgba(13, 31, 34, 1) 100%);
+    color: #F4FFF8;
+    text-align: center;
+}
+.BasicImage {
+    width: 294px;
+}
+.RegularImage {
+    width: 294px;
+    height: 127.391px;
+}
+.WorksImage {
+    width: 294px;
+    height: 127.391px;
+}
